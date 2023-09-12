@@ -10,3 +10,7 @@ Input Data Collection: The system allows users to input relevant data such as so
 # Acknowledgements
 
 We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
+
+# Contacts
+For any inquiries or questions, please contact us at rai.anuj0@gmail.com
+
